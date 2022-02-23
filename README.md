@@ -4,10 +4,26 @@ For Fivem Servers
 Depencies;
 Node.js
 
-Dowload;https://dosya.co/rtwpzxysp5p4/MB_V2.zip.html
+Prewiew
+https://www.youtube.com/watch?v=07ioBW-KBNQ
 
-VT; https://www.virustotal.com/gui/file/b901881ec209185a228a223adba9e077f4fda5dba158f6bb7428a1fa03b8cbb6?nocache=1
+How to Install - Nasıl Kurulur ?
 
-Discord : https://discord.gg/AwcXmGNyZ5 
+-EN
+open MB_V2 folder and run CMD inside folder
 
-Twitch : https://www.twitch.tv/mrberk33
+run this code > npm i node.js
+
+open ayarlar.json and edit by yourself
+
+Thats All
+
+-TR
+MB_V2 Klasörünü açın ve klasör içerisinde cmd'yi çalıştırın.
+
+Cmd'den bu kodu çalıştırın > npm i node.js
+
+ayarlar.json'ı açıp kendinize göre editleyin 
+
+Kurulum bu kadar.
+
