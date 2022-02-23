@@ -1,0 +1,5 @@
+{
+  "prefix": ".",         // Prefix for the command
+  "sahip": "User ID",   // User ID of the bot owner
+  "token": "Bot_Token" // Bot token
+}
